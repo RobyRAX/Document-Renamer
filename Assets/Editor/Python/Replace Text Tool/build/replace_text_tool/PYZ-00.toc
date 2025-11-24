@@ -1,4 +1,5 @@
-('D:\\My Docs\\Titipan\\Mbak Lisa\\Python\\Replace Text '
+('D:\\My Docs\\Titipan\\Mbak '
+ 'Lisa\\Document-Renamer\\Assets\\Editor\\Python\\Replace Text '
  'Tool\\build\\replace_text_tool\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Robby '
